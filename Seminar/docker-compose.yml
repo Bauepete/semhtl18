@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  seminar:
+    image: seminar
+    build:
+      context: .
+      dockerfile: Seminar/Dockerfile

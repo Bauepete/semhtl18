@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{285323DE-2BBA-47AF-A9EB-C20CAAD8CE78}|Default">
+  <MonoDevelop.Ide.ItemProperties.Seminar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Seminar/Persistence/TeacherRepository.cs">
+    <Files>
+      <File FileName="Seminar/Dockerfile" Line="1" Column="1" />
+      <File FileName="docker-compose.yml" Line="1" Column="1" />
+      <File FileName="Seminar/Entities/Teacher.cs" Line="6" Column="1" />
+      <File FileName="Seminar/Contracts/ITeacherRepository.cs" Line="11" Column="22" />
+      <File FileName="Seminar/Persistence/TeacherRepository.cs" Line="16" Column="1" />
+      <File FileName="Seminar/Startup.cs" Line="33" Column="29" />
+      <File FileName="Seminar/ApiControllers/TeachersController.cs" Line="12" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,2 @@
+/Users/peter/Projects/Seminar/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/peter/Documents/work/School/Organizational/PH/20181016_Microservice/DotNetCoreApp/semhtl18/Seminar/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
